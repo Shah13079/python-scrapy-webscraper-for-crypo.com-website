@@ -1,0 +1,4 @@
+itemadapter==0.4.0
+pymongo==4.0.1
+Scrapy==2.5.1
+dnspython
